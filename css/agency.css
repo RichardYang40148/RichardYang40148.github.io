@@ -10,6 +10,9 @@ body {
 .text-muted {
   color: #777777;
 }
+.text-muted2{
+  color: #f1f1f1;
+}
 .text-primary {
   color: #fed136;
 }
